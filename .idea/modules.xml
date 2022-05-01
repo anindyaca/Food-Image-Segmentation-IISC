@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../DSND-Starbucks-Marketing/.idea/DSND-Starbucks-Marketing.iml" filepath="$PROJECT_DIR$/../DSND-Starbucks-Marketing/.idea/DSND-Starbucks-Marketing.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Food-Image-Segmentation-IISC.iml" filepath="$PROJECT_DIR$/.idea/Food-Image-Segmentation-IISC.iml" />
     </modules>
   </component>
